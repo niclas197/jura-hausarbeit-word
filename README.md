@@ -11,7 +11,7 @@ Bietet:
 * uvw.   
 
 ---
-Wichtig! Ich habe das Ganze bisher NUR mit Word 2011:mac testen können! Ich wäre um Testberichte sehr dankbar.
+Wichtig! Ich habe das Ganze bisher NUR mit Word 2011:mac und Word 2013 testen können! Ich wäre um Testberichte sehr dankbar.
 
 Das ganze funktioniert definitiv weder mit LibreOffice, noch mit Pages!
 
