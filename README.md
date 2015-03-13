@@ -16,5 +16,5 @@ Wichtig! Ich habe das Ganze bisher NUR mit Word 2011:mac und Word 2013 testen k�
 Das ganze funktioniert definitiv weder mit LibreOffice, noch mit Pages!
 
 ---
-Fragen am besten ins Forum! [http://fsjura-hannover.de/forum/vorlagen/](http://fsjura-hannover.de/forum/vorlagen/)Notfalls an: [niclas@fsjura-hannover.de](mailto:niclas@fsjura-hannover.de)Aktualisierungen gibt es hier: [http://fsjura-hannover.de/service/vorlagen-hausarbeit/](http://fsjura-hannover.de/service/vorlagen-hausarbeit/)Die Vorlage steht unter der [CC BY-NC-SA DE Lizenz Deutschland](http://creativecommons.org/licenses/by-nc-sa/3.0/de/).Autor ist [Niclas Stock](http://www.niclasstock.de) für den [Fachschaftsrat Jura Hannover.](http://fsjura-hannover.de)
+Aktualisierungen gibt es hier: [http://fsjura-hannover.de/service/vorlagen-hausarbeit/](http://fsjura-hannover.de/service/vorlagen-hausarbeit/)Die Vorlage steht unter der [CC BY-NC-SA DE Lizenz Deutschland](http://creativecommons.org/licenses/by-nc-sa/3.0/de/).Autor ist [Niclas Stock](http://www.niclasstock.de) für den [Fachschaftsrat Jura Hannover.](http://fsjura-hannover.de)
 Angabe der Lizenz und Namensnennung nur bei WEITERGABE als Vorlage, nicht wenn es ALS VORLAGE VERWENDET wird. 
